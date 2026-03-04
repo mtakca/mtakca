@@ -1,4 +1,4 @@
-# Hey, I'm Taha
+# Hey, I'm M. Taha AKÇA
 
 Senior DevOps / Platform Engineer based in Istanbul. I spend most of my time automating infrastructure, building internal platforms, and trying to make ops less painful for dev teams.
 
