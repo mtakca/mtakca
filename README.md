@@ -1,25 +1,25 @@
-# hey, i'm taha
+# Hey, I'm Taha
 
-senior devops / platform engineer based in istanbul. i spend most of my time automating infrastructure, building internal platforms, and trying to make ops less painful for dev teams.
+Senior DevOps / Platform Engineer based in Istanbul. I spend most of my time automating infrastructure, building internal platforms, and trying to make ops less painful for dev teams.
 
-right now i'm focused on hybrid-cloud environments — lots of terraform, ansible, kubernetes, and glue code that holds it all together.
+Right now I'm focused on hybrid-cloud environments — lots of Terraform, Ansible, Kubernetes, and glue code that holds it all together.
 
-## what i work with
+## What I Work With
 
-**infra & iac:** terraform, ansible, packer  
-**containers:** kubernetes (rke2, kubespray), docker, helm  
-**ci/cd:** azure devops, gitlab-ci, argocd  
-**observability:** prometheus, grafana, thanos, loki, tempo  
-**security:** vault, keycloak, kyverno, istio  
-**cloud:** vcloud director, aws, azure
+**Infra & IaC:** Terraform, Ansible, Packer  
+**Containers:** Kubernetes (RKE2, Kubespray), Docker, Helm  
+**CI/CD:** Azure DevOps, GitLab-CI, ArgoCD  
+**Observability:** Prometheus, Grafana, Thanos, Loki, Tempo  
+**Security:** Vault, Keycloak, Kyverno, Istio  
+**Cloud:** vCloud Director, AWS, Azure
 
-## open source
+## Open Source
 
-| repo | what it does |
+| Repo | What It Does |
 |------|-------------|
-| [platform-automation](https://github.com/mtakca/platform-automation) | full-stack iac monorepo — terraform modules, 27 ansible roles, k8s day-2 ops, single makefile orchestration |
-| [observability-stack](https://github.com/mtakca/observability-stack) | helm umbrella chart for grafana + thanos + loki + tempo with ha and multi-cluster remote agents |
+| [platform-automation](https://github.com/mtakca/platform-automation) | Full-stack IaC monorepo — Terraform modules, 27 Ansible roles, K8s Day-2 ops, single Makefile orchestration |
+| [observability-stack](https://github.com/mtakca/observability-stack) | Helm umbrella chart for Grafana + Thanos + Loki + Tempo with HA and multi-cluster remote agents |
 
-## writing
+## Writing
 
-i occasionally write about devops on [medium](https://medium.com/@mtakca). mostly hands-on stuff — architecture decisions, automation patterns, things i've learned the hard way.
+I occasionally write about DevOps on [Medium](https://medium.com/@mtakca). Mostly hands-on stuff — architecture decisions, automation patterns, things I've learned the hard way.
