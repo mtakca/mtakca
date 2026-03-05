@@ -6,11 +6,11 @@ Right now I'm focused on hybrid-cloud environments — lots of Terraform, Ansibl
 
 ## What I Work With
 
-**Infra & IaC:** Terraform, Ansible, Packer  
+**Infra & IaC:** Terraform, Ansible  
 **Containers:** Kubernetes (RKE2, Kubespray), Docker, Helm  
-**CI/CD:** Azure DevOps, GitLab-CI, ArgoCD  
+**CI/CD:** Azure DevOps, GitLab-CI  
 **Observability:** Prometheus, Grafana, Thanos, Loki, Tempo  
-**Security:** Vault, Keycloak, Kyverno, Istio  
+**Security:** Vault, Keycloak  
 **Cloud:** vCloud Director, AWS, Azure
 
 ## Open Source
